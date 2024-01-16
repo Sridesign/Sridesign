@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web designs
 - 📫 How to reach me sriramnarayanan123@gmail.com
 
-- preview of my website  https://sridesign.github.io/Sridesign/
+- preview of my website  https://onlinecodoce.000webhostapp.com/
 
 <!---
 Sridesign/Sridesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
